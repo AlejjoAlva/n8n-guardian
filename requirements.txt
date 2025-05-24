@@ -1,0 +1,11 @@
+# N8N Guardian Dependencies
+# Minimal dependencies for maximum compatibility
+
+# Required for colored terminal output
+colorama>=0.4.4
+
+# Standard library modules used:
+# - os, sys, subprocess, time, threading, logging
+# - json, webbrowser, datetime, pathlib
+# - urllib.request, urllib.error
+# These are included with Python 3.7+ and require no installation
